@@ -14,3 +14,11 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.padding-section {
+  padding: 120px 0;
+}
+
+.padding-section-bottom {
+  padding: 60px 0px 120px 0px;
+}

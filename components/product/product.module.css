@@ -1,0 +1,11 @@
+.productTitle {
+  font-size: 16px;
+  font-weight: bold;
+  border-bottom: 2px solid black;
+  border-bottom-width: 1px;
+}
+
+.productDescription {
+  font-size: 14px;
+  text-align: justify;
+}

@@ -1,0 +1,34 @@
+.bgHeader {
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  background-image: url('/banner-bg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 100% 100%;
+  width: 100%;
+  /* height: 90vh; */
+}
+
+.imgHeader {
+  width: 90%;
+  height: 100%;
+  margin: auto;
+  display: block;
+}
+
+.alignMiddle {
+  align-items: center;
+}
+
+.title {
+  text-align: left;
+  color: #fff;
+  line-height: 160%;
+  font-size: 18px;
+}
+
+.paddingContent {
+  padding: 60px 0;
+}
