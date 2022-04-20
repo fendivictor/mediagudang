@@ -72,7 +72,7 @@ export default function Contact() {
       <Container id="contact" className="padding-section-bottom">
         <Row>
           <div className="col-12">
-            <h2 className="text-center mb-5"> 
+            <h2 className={styles.title}> 
               Diskusikan kebutuhan
               bisnis Anda dengan kami
             </h2>

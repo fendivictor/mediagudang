@@ -5,4 +5,11 @@
 .description {
   text-align: justify;
   line-height: 180%;
+  font-size: 18px;
+}
+
+.title {
+  margin-bottom: 30px;
+  font-size: 42px;
+  font-weight: bold;
 }
