@@ -81,13 +81,17 @@ export default function Contact() {
             <FontAwesomeIcon icon={faCommentDots} width={36} />
             <p>Live Chat</p>
             <small>Bicara langsung dengan konsultan kami <br /> melalui web chat, atau telepon</small> <br /> <br />
-            <a href="https://wa.me/628156647203" className="btn btn-sm btn-primary">Chat via Whatsapp</a>
+            <a href="https://wa.me/6289655000074" className="btn btn-sm btn-primary my-1">Chat via Whatsapp (Wury)</a>
+            <br />
+            <a href="https://wa.me/628156647203" className="btn btn-sm btn-primary my-1">Chat via Whatsapp (Victor)</a>
           </div>
           <div className="col-lg-4 col-md-6 text-center mt-5">
             <FontAwesomeIcon icon={faPhoneVolume} width={36} />
             <p>Call Center</p>
             <small>Konsultasikan masalah bisnis Anda. <br /> Office hours: 09:00 – 17:00 WIB</small> <br /> <br />
-            <a href="tel:628156647203" className="btn btn-sm btn-primary">081 566 472 03</a>
+            <a href="tel:6289655000074" className="btn btn-sm btn-primary my-1">089 655 0000 74 (Wury)</a>
+            <br />
+            <a href="tel:628156647203" className="btn btn-sm btn-primary my-1">081 566 472 03 (Victor)</a>
           </div>
           <div className="col-lg-4 col-md-6 text-center mt-5">
             <FontAwesomeIcon icon={faCalendarAlt} width={36} />
