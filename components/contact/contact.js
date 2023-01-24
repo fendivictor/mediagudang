@@ -27,7 +27,7 @@ export default function Contact() {
   }
 
   const storeData = async (e) => {
-    await fetch('https://api.fendivictor.xyz/jadwal/', {
+    await fetch('https://demomediagudang.masuk.web.id/notifikasi/index.php/api/Contact/index', {
       method: 'POST',
       body: JSON.stringify(data),
       headers: {
