@@ -80,6 +80,16 @@ export default function Product() {
               </Card.Body>
             </Card>
           </div>
+          <div className="col-lg-4 text-left mt-3">
+            <Card className={styles.background}>
+              <Card.Body>
+                <Card.Title className={styles.productTitle}>APLIKASI RESTO</Card.Title>
+                <Card.Text className={styles.productDescription}>
+                Sistem manajemen restaurant atau cafe untuk manage pesanan sampai pembayaran.
+                </Card.Text>
+              </Card.Body>
+            </Card>
+          </div>
         </Row>
       </Container>
     </>
